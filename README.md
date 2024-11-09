@@ -28,7 +28,7 @@ This project implements a simple GPT-like language model using PyTorch. The mode
 1. **Prepare the Data**: Save the text data in a file named `input.txt`. This file will be read to create a vocabulary and train the model.
 2. **Run the Training Script**:
     ```bash
-    python train.py
+    python Nano-GPT.py
     ```
 
 3. **Generate Text**: The model can generate new text samples after training. Run the following code in the script to generate new text:
